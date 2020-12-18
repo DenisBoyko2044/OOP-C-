@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.exe
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.deps.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.dll
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.pdb
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfo.cs
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.dll
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.pdb
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.genruntimeconfig.cache
