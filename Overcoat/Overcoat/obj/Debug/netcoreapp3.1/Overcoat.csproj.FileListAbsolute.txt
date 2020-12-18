@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.exe
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.deps.json
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.json
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.dll
+C:\Users\Денис\source\repos\Overcoat\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.pdb
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.dll
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.pdb
+C:\Users\Денис\source\repos\Overcoat\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.genruntimeconfig.cache
