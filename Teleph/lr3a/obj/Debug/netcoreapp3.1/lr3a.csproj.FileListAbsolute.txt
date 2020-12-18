@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.exe
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.deps.json
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.runtimeconfig.json
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.dll
+C:\Users\Денис\source\repos\lr3a\lr3a\bin\Debug\netcoreapp3.1\lr3a.pdb
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.AssemblyInfo.cs
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.dll
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.pdb
+C:\Users\Денис\source\repos\lr3a\lr3a\obj\Debug\netcoreapp3.1\lr3a.genruntimeconfig.cache
