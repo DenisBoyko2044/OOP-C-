@@ -1,0 +1,10 @@
+C:\Users\Денис\source\repos\band\band\bin\Debug\band.exe.config
+C:\Users\Денис\source\repos\band\band\bin\Debug\band.exe
+C:\Users\Денис\source\repos\band\band\bin\Debug\band.pdb
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.Form1.resources
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.Properties.Resources.resources
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.exe
+C:\Users\Денис\source\repos\band\band\obj\Debug\band.pdb
